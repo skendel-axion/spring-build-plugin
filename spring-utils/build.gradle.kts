@@ -6,13 +6,6 @@ plugins {
     kotlin("plugin.spring") version "1.7.10"
 }
 
-//springBoot = { id = "org.springframework.boot", version = "3.2.0" }
-//springDependencyManagement = { id = "io.spring.dependency-management", version = "1.1.4" }
-//kotlinJvm = { id = "org.jetbrains.kotlin.jvm", version = "1.9.23" }
-//pluginSpring = { id = "org.jetbrains.kotlin.plugin.spring", version = "1.7.10" }
-//
-
-
 group = "hr.axion"
 version = "0.1.9"
 java.sourceCompatibility = JavaVersion.VERSION_17
